@@ -1,5 +1,5 @@
 <h1>Victor Castro</h1>
 
-<li>GitHub</li>
-<li>Repl</li>
-<li></li>
+<li>Um exemplo simples para criptografar e descriptografar uma informação, presente em um arquivo .txt</li>
+<li>Ler o arquivo</li>
+<li>Escrever no arquivo</li>
