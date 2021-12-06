@@ -1,5 +1,4 @@
-//@fatec - Victor Gabriel Gonçalves de Castro
-//2840482113039
+//@fatec - Victor Castro
 //Veja meu código no Repl: https://replit.com/@VictorCastro10/Atividadeee#main.cpp
 
 #include <iostream>
